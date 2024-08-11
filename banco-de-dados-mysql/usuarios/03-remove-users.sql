@@ -1,0 +1,1 @@
+DROP USER priscila@empresa.com;

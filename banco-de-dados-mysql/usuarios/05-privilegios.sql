@@ -1,0 +1,5 @@
+GRANT SELECT, INSERT, UPDATE, DELETE
+ON sakila.*
+TO ana;
+
+SHOW GRANTS FOR ana;

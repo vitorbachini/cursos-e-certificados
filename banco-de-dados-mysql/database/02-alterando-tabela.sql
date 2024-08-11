@@ -1,0 +1,2 @@
+ALTER TABLE marcas 
+ADD origem VARCHAR(100);

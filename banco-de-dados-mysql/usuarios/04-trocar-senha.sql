@@ -1,0 +1,1 @@
+SET PASSWORD FOR joao@localhost = '1414';
